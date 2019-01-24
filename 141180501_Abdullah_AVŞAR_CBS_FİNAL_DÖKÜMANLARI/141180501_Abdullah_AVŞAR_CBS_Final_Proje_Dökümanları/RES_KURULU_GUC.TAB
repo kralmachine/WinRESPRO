@@ -1,0 +1,19 @@
+!table
+!version 300
+!charset WindowsTurkish
+
+Definition Table
+  File "res_kurulu_guc.csv"
+  Type ASCII Delimiter "," Titles Charset "WindowsTurkish"
+  Fields 6
+    SANTRAL_ADI Char (30) ;
+    PLAKA_NO Char (2) ;
+    IL Char (14) Index 1 ;
+    FIRMA Char (36) ;
+    KURULU_GUC Smallint ;
+    _COL6 Char (2) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "0ff45beb-03e5-49c5-aafd-af0329b898c3"
+end_metadata

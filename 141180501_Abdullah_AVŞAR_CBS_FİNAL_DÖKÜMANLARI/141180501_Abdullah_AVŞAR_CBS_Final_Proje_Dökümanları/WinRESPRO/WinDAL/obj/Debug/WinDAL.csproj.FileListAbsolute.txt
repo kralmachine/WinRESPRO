@@ -1,0 +1,10 @@
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinDAL\bin\Debug\WinDAL.exe.config
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinDAL\bin\Debug\WinDAL.exe
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinDAL\bin\Debug\WinDAL.pdb
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinDAL\obj\Debug\Interop.MapInfo.dll
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinDAL\obj\Debug\WinDAL.csproj.ResolveComReference.cache
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinDAL\obj\Debug\WinDAL.Properties.Resources.resources
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinDAL\obj\Debug\WinDAL.csproj.GenerateResource.Cache
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinDAL\obj\Debug\WinDAL.exe
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinDAL\obj\Debug\WinDAL.pdb
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinDAL\obj\Debug\WinDAL.csprojResolveAssemblyReference.cache

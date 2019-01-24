@@ -1,0 +1,14 @@
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\bin\Debug\WinBL.exe.config
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\bin\Debug\WinBL.exe
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\bin\Debug\WinBL.pdb
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\bin\Debug\WinDAL.exe
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\bin\Debug\WinEntity.exe
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\bin\Debug\WinDAL.pdb
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\bin\Debug\WinEntity.pdb
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\obj\Debug\WinBL.csprojResolveAssemblyReference.cache
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\obj\Debug\Interop.MapInfo.dll
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\obj\Debug\WinBL.csproj.ResolveComReference.cache
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\obj\Debug\WinBL.Properties.Resources.resources
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\obj\Debug\WinBL.csproj.GenerateResource.Cache
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\obj\Debug\WinBL.exe
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinBL\obj\Debug\WinBL.pdb

@@ -1,0 +1,31 @@
+!table
+!version 700
+!charset WindowsTurkish
+
+Definition Table
+  Type NATIVE Charset "WindowsTurkish"
+  Fields 7
+    IL_ADI Char (20) Index 1 ;
+    PLAKA_NO Char (2) Index 5 ;
+    NUFUS_1990 Integer Index 2 ;
+    NUFUS_1997 Integer Index 3 ;
+    DEGISIM Float ;
+    ORT_GELIR_1980 Float Index 4 ;
+    Bolge_Adi Char (20) ;
+begin_metadata
+"\SNAPTHIN" = ""
+"\SNAPTHIN\EnableSnap" = "FALSE"
+"\SNAPTHIN\Node" = "0"
+"\SNAPTHIN\Vec" = "0"
+"\SNAPTHIN\TolUnit" = "0"
+"\SNAPTHIN\EnableThin" = "TRUE"
+"\SNAPTHIN\Bend" = "400"
+"\SNAPTHIN\Dist" = "400"
+"\SNAPTHIN\ThinUnit" = "7"
+"\SNAPTHIN\EnableArea" = "FALSE"
+"\SNAPTHIN\Area" = "0"
+"\SNAPTHIN\AreaUnit" = "14"
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "3366daa6-dcb2-4a28-a008-f93778e89a6e"
+end_metadata

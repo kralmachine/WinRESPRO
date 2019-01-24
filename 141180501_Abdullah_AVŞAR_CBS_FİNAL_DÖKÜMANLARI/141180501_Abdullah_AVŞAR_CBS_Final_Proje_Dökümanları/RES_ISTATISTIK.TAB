@@ -1,0 +1,28 @@
+!table
+!version 300
+!charset WindowsTurkish
+
+Definition Table
+  File "res_istatistik.csv"
+  Type ASCII Delimiter "," Titles Charset "WindowsTurkish"
+  Fields 15
+    IL Char (14) ;
+    IL_KOD Char (2) Index 2 ;
+    TEORIK_POTANSIYEL Smallint Index 1 ;
+    DEVREDE Smallint ;
+    INSAAT Smallint ;
+    LISANS_ALINAN Smallint ;
+    ON_LISANS Smallint ;
+    TOPLAM Smallint ;
+    POLAT_ENERJI Smallint ;
+    DEMIRER_ENERJI Smallint ;
+    EKSIM_ENERJI Smallint ;
+    GURIS_HOLDING Smallint ;
+    BILGIN_ENERJI Smallint ;
+    BORUSAN_EnBW_ENERJI Smallint ;
+    DOST_ENERJI Smallint ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "3af79073-32e2-4eb2-8eeb-25403060afd3"
+end_metadata

@@ -1,0 +1,42 @@
+!table
+!version 500
+!charset WindowsTurkish
+
+Definition Table
+  File "iller_teorik_potansiyel.mig"
+  Type "RASTER"
+  (124809.3839517001,762596.00992332364) (0,0) Label "Pt 1",
+  (1785259.3768391018,762596.00992332364) (453,0) Label "Pt 2",
+  (1785259.3768391018,25840.052814344061) (453,201) Label "Pt 3",
+  (124809.3839517001,25840.052814344061) (0,201) Label "Pt 4"
+  CoordSys Earth Projection 3, 28, "m", 36, 25, 37.5, 40.5, 1003827.11, -1183453.0800000001
+  Units "m"
+  RasterStyle 6 1
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "dd48d72f-612e-4fc4-a8e3-f8482694518b"
+"\Interpolator" = "IDW"
+"\Interpolator\Version" = "100"
+"\Interpolator\Parameter" = ""
+"\Interpolator\Parameter\EXPONENT" = "2"
+"\Interpolator\Parameter\MAX POINTS" = "25"
+"\Interpolator\Parameter\MIN POINTS" = "1"
+"\Interpolator\Parameter\SEARCH RADIUS" = "100"
+"\Interpolator\Source Data" = ""
+"\Interpolator\Source Data\Table" = "C:\Users\aAa\Desktop\MiDataTr\Bolum_1\Iller.TAB"
+"\Interpolator\Source Data\Table\Is Permanent" = "TRUE"
+"\Interpolator\Source Data\Expression" = "TEORIK_POTANSIYEL"
+"\Interpolator\Source Data\Expression Type" = "4"
+"\Interpolator\Source Data\Expression Width" = "6"
+"\Interpolator\Source Data\Expression Decimal Width" = "112"
+"\Interpolator\Source Data\Grid Type" = "mig.ghl"
+"\Interpolator\Source Data\Grid Coordsys" = "CoordSys Earth Projection 3, 28, ""m"", 36, 25, 37.5, 40.5, 1003827.11, -1183453.0800000001"
+"\Interpolator\Source Data\Clip Table" = "C:\Users\aAa\Desktop\MiDataTr\Bolum_1\Iller.TAB"
+"\Interpolator\Source Data\Clip Table\Is Permanent" = "TRUE"
+"\Legend" = ""
+"\Legend\Title" = "Iller by TEORIK_POTANSIYEL"
+"\Inflections" = ""
+"\Inflections\Spread Method" = "2"
+"\Inflections\Round By" = "100"
+end_metadata

@@ -1,0 +1,8 @@
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinEntity\bin\Debug\WinEntity.exe.config
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinEntity\bin\Debug\WinEntity.exe
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinEntity\bin\Debug\WinEntity.pdb
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinEntity\obj\Debug\WinEntity.Properties.Resources.resources
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinEntity\obj\Debug\WinEntity.csproj.GenerateResource.Cache
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinEntity\obj\Debug\WinEntity.exe
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinEntity\obj\Debug\WinEntity.pdb
+C:\Users\aAa\Desktop\4.sınıf\4.sınıf 1.dönem\cografi sistemler\SON_PROJE_CALISMA_BOLGESI\WinRESPRO\WinEntity\obj\Debug\WinEntity.csprojResolveAssemblyReference.cache
