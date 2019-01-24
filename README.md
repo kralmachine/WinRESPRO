@@ -68,3 +68,23 @@
 ![web bitti](https://user-images.githubusercontent.com/28226570/51665588-c921d700-1fc4-11e9-92eb-ebe9a3ebdc98.png)
 
 <p>Sistemden çıkmadan sistem üzerinden web sitelere daha güvenli bağlanabilirsiniz ve istediğiniz ana screeshoot alabilirsiniz.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
